@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<b>Data Scientist · ML & NLP · LLM Monitoring & GenAI intern at BPCE group</b><br/>
+<b>Data Scientist · ML & NLP · LLM Monitoring & GenAI</b><br/>
 <i>Engineering student \@ ENSAI · Exchange \@ TU Munich · Available Oct
 2026</i>
 
@@ -25,16 +25,15 @@
 ## 🧠 About Me
 
 I'm a Data Science engineering student at **ENSAI** (double degree with
-a research-focused Master in ML & AI), currently on an exchange semester
-at the **Technical University of Munich**. My work sits at the
+a research-focused Master in ML & AI, Master for Smart Data Science), graduating in September 2026. My work sits at the
 intersection of **NLP, LLM evaluation, and behavioural analytics**.
 
 I care deeply about making AI systems **interpretable, reliable, and
-safe** — particularly in regulated environments like finance.
+safe**, particularly in regulated environments like finance.
 
 -   🔭 Currently: Internship at **BPCE Vie (Groupe BPCE)** building a
     Python monitoring package for LLMs in production
--   🌱 Exploring: LLM explainability (SHAP/LIME adapted for language
+-   🌱 Exploring: LLM explainability (SHAP/LIME/gSMILE adapted for language
     models), semantic entropy, GenAI governance
 -   🏆 Fun fact: Regional chess champion with TU Munich's university
     team
