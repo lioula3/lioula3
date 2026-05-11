@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 <h1 align="center">
 
 👋 Hi, I'm Aliou BADJI
@@ -12,7 +6,7 @@ editor_options:
 
 <p align="center">
 
-<b>Data Scientist · ML & NLP · LLM Monitoring & GenAI</b><br/>
+<b>Data Scientist · ML & NLP · LLM Monitoring & GenAI intern at BPCE group</b><br/>
 <i>Engineering student \@ ENSAI · Exchange \@ TU Munich · Available Oct
 2026</i>
 
