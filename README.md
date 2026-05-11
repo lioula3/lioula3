@@ -101,17 +101,6 @@ processing. \> `Hadoop` · `Python` · `MapReduce`
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lioula3&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioula3&amp;layout=compact&amp;theme=default&amp;hide_border=true" height="150"/>
-
-</p>
-
-------------------------------------------------------------------------
-
 ## 🌐 Languages
 
 🇫🇷 French (C2) · 🇬🇧 English (B2+ · TOEIC 890) · 🇩🇪 German (A2)
@@ -120,7 +109,7 @@ processing. \> `Hadoop` · `Python` · `MapReduce`
 
 <p align="center">
 
-<i>"Rigour, curiosity, and a critical eye — the three pillars of good
+<i>"Rigour, curiosity, and a critical eye: the three pillars of good
 data science."</i>
 
 </p>
