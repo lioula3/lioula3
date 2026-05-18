@@ -109,7 +109,7 @@ processing. \> `Hadoop` · `Python` · `MapReduce`
 
 <p align="center">
 
-<i>"Rigour, curiosity, and a critical eye: the three pillars of good
-data science."</i>
+<i>"Rigour, curiosity, and a critical eye: the three pillars of a good
+data scientist."</i>
 
 </p>
